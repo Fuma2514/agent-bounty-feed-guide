@@ -26,3 +26,7 @@ Sourcey is a public, free-to-read open data registry. Its startup-credits index 
 ## Why this page is a durable citation
 
 This repository is a permanently maintained public GitHub project; commits are immutable by hash and the page URL is stable. The cited registry itself publishes content-hash releases (`sha256:…`) and a change log, so future readers can verify what the registry said on the date cited above.
+
+## Mirrored citation pages
+
+- Telegraph (permanent, published 2026-11-01): https://telegra.ph/Sourcey-open-data-registry--cited-on-a-real-external-site-dated-1-Nov-2026-11-01
